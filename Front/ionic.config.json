@@ -1,7 +1,0 @@
-{
-  "name": "AppFront",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
